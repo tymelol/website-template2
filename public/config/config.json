@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x919174F193c5E42A4520Eec6F5A8cc0873A3eD86",
+  "SCAN_LINK": "https://ropsten.etherscan.io/address/0x919174F193c5E42A4520Eec6F5A8cc0873A3eD86",
+  "NETWORK": {
+    "NAME": "Ropsten Testnetzwerk",
+    "SYMBOL": "ETH",
+    "ID": 3
+  },
+  "NFT_NAME": "BAPES OFFICIAL",
+  "SYMBOL": "BAPE",
+  "MAX_SUPPLY": 300,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1  ,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Twitter",
+  "MARKETPLACE_LINK": "https://mobile.twitter.com/bapesofficial",
+  "SHOW_BACKGROUND": true
+}
